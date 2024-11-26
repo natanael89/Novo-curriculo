@@ -1,0 +1,12 @@
+{
+    "projects": [
+      { "id": 1, "title": "E-commerce App", "image": "/img/e-commerce.jpg", "slug": "e-commerce-app" },
+      { "id": 2, "title": "Blog Platform", "image": "/img/Blog-Platform.jpg", "slug": "blog-platform" },
+      { "id": 3, "title": "Task Manager", "image": "/img/Task-Manager.jpg", "slug": "task-manager" },
+      { "id": 4, "title": "Social Media Dashboard", "image": "/img/Social-Media-Dashboard.jpg", "slug": "social-media-dashboard" },
+      { "id": 5, "title": "Weather App", "image": "/img/Weather1-App.jpg", "slug": "weather-app" },
+      { "id": 6, "title": "Portfolio Website", "image": "/img/portfolio-website.jpg", "slug": "portfolio-website" }
+    ]
+}
+  
+  
