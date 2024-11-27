@@ -6,7 +6,53 @@
       { "id": 4, "title": "Social Media Dashboard", "image": "/img/Social-Media-Dashboard.jpg", "slug": "social-media-dashboard" },
       { "id": 5, "title": "Weather App", "image": "/img/Weather1-App.jpg", "slug": "weather-app" },
       { "id": 6, "title": "Portfolio Website", "image": "/img/portfolio-website.jpg", "slug": "portfolio-website" }
+    ],
+
+    "postagemProjects": [
+      { 
+        "id": 1, 
+        "title": "E-commerce App", 
+        "image": "/img/e-commerce.jpg", 
+        "slug": "e-commerce-app",
+        "description": "Um aplicativo de e-commerce completo construído com Next.js, Node.js e MongoDB. Este projeto inclui autenticação de usuários, catálogo de produtos, carrinho de compras e processamento de pagamentos usando Stripe."
+      },
+      { 
+        "id": 2, 
+        "title": "Blog Platform", 
+        "image": "/img/Blog-Platform.jpg", 
+        "slug": "blog-platform",
+        "description": "Uma plataforma de blog moderna desenvolvida com React e GraphQL. Este projeto apresenta um sistema de gerenciamento de conteúdo personalizado, comentários em tempo real e otimização SEO."
+      },
+      { 
+        "id": 3, 
+        "title": "Task Manager", 
+        "image": "/img/Task-Manager.jpg", 
+        "slug": "task-manager",
+        "description": "Um aplicativo de gerenciamento de tarefas eficiente criado com Vue.js e Firebase. Este projeto inclui autenticação de usuários, criação e atribuição de tarefas, lembretes e relatórios de produtividade."
+      },
+      { 
+        "id": 4, 
+        "title": "Social Media Dashboard", 
+        "image": "/img/Social-Media-Dashboard.jpg", 
+        "slug": "social-media-dashboard",
+        "description": "Um dashboard de mídia social abrangente construído com React e várias APIs de redes sociais. Este projeto agrega dados de múltiplas plataformas, fornecendo análises e insights valiosos."
+      },
+      { 
+        "id": 5, 
+        "title": "Weather App", 
+        "image": "/img/Weather1-App.jpg", 
+        "slug": "weather-app",
+        "description": "Um aplicativo de previsão do tempo elegante desenvolvido com React Native. Este projeto consome dados de uma API de clima e oferece previsões detalhadas, alertas meteorológicos e visualizações interativas."
+      },
+      { 
+        "id": 6, 
+        "title": "Portfolio Website", 
+        "image": "/img/portfolio-website.jpg", 
+        "slug": "portfolio-website",
+        "description": "Um site de portfólio responsivo criado com Next.js e Tailwind CSS. Este projeto apresenta uma galeria de projetos, seções de habilidades e experiência, e um formulário de contato funcional."
+      }
     ]
 }
+
   
   
